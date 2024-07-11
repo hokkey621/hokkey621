@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about ML/AI, network and hardware.
 - 📫 How to reach me: [X @hoki621](https://x.com/hoki621)
 
+## Skills
+[![hokki](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhokki)](https://atcoder.jp/users/hokki)
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow)](https://skillicons.dev)
 
+## Status
 [![](https://raw.githubusercontent.com/hokkey621/hokkey621/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left"> 
