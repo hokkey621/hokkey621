@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, there 👋
+- 🔭 I'm a graduate student majoring in computer science.
+- 🌱 I’m currently learning about ML/AI, network and hardware.
+- 📫 How to reach me: [X @hoki621](https://x.com/hoki621)
+
+
 
 [![](https://raw.githubusercontent.com/hokkey621/hokkey621/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
