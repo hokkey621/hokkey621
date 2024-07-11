@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, there 👋
+# Hi there 👋
 - 🔭 I'm a graduate student majoring in computer science.
-- 🌱 I’m currently learning about ML/AI, network and hardware.
+- 🌱 I'm currently learning about ML/AI, network and hardware.
 - 📫 How to reach me: [X @hoki621](https://x.com/hoki621)
 
 ## Skills
