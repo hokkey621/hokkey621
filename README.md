@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hokkey621&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hokkey621&theme=onedark&title=Joined2020,Commits,Followers,PullRequest,Repositories,Stars,Issues&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hokkey621&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
