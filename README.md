@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Rating](https://badgen.org/img/atcoder/hokki/rating/algorithm?style=flat)](https://atcoder.jp/users/hokki?contestType=algo)
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/hokki/rating/heuristic?style=flat)](https://atcoder.jp/users/hokki?contestType=heuristic)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,qt,raspberrypi,tensorflow,vim,vscode)](https://skillicons.dev)
 
 ## Status
 [![](https://raw.githubusercontent.com/hokkey621/hokkey621/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
