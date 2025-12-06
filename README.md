@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 - 🔭 I'm a graduate student majoring in computer science.
-- 🌱 I'm currently learning about ML/AI, network and hardware.
+- 🌱 I'm currently learning about ML/AI, network and security.
 - 📫 How to reach me: [X @hoki621](https://x.com/hoki621)
 
 ## Skills
-[![hokki](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhokki)](https://atcoder.jp/users/hokki)
+[![Likes](https://badgen.org/img/zenn/hoki621/likes?style=flat)](https://zenn.dev/hoki621)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow)](https://skillicons.dev)
+[![Contributions](https://badgen.org/img/qiita/hokkey621/contributions?style=flat)](https://qiita.com/hokkey621)
+
+[![Rating](https://badgen.org/img/atcoder/hokki/rating/algorithm?style=flat)](https://atcoder.jp/users/hokki?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/hokki/rating/heuristic?style=flat)](https://atcoder.jp/users/hokki?contestType=heuristic)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,qt,raspberrypi,tensorflow,vim,vscode)](https://skillicons.dev)
 
 ## Status
 [![](https://raw.githubusercontent.com/hokkey621/hokkey621/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
