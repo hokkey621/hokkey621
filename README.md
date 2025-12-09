@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,qt,raspberrypi,tensorflow,vim,vscode)](https://skillicons.dev)
 
 ## Status
-[![](https://raw.githubusercontent.com/hokkey621/hokkey621/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokkey621&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hokkey621&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hokkey621&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-xi-nine-88.vercel.app/api/?username=hokkey621&show_icons=true&count_private=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-xi-nine-88.vercel.app/api/top-langs/?username=hokkey621&theme=tokyonight&count_private=true&layout=compact" />
+</a>
